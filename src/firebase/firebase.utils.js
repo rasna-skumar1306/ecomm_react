@@ -3,12 +3,12 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 const config = {
-  apiKey: 'AIzaSyCOLx0H6fopUTlMc3r7830SUmBfxHnv7rE',
-  authDomain: 'ecomm-web-crwn.firebaseapp.com',
-  projectId: 'ecomm-web-crwn',
-  storageBucket: 'ecomm-web-crwn.appspot.com',
-  messagingSenderId: '21330420716',
-  appId: '1:21330420716:web:c9b0e031571eb6b438d6c9',
+  apiKey: 'AIzaSyA8JY16V7YuPG46cEQWozqiI2znRWEZCJU',
+  authDomain: 'ecomm-ras.firebaseapp.com',
+  projectId: 'ecomm-ras',
+  storageBucket: 'ecomm-ras.appspot.com',
+  messagingSenderId: '782993456322',
+  appId: '1:782993456322:web:fa370562457feb42818f5b',
 }
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
